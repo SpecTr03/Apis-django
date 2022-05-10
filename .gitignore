@@ -1,5 +1,5 @@
 # git ignore
 agenda/secret.json
 #
-entornos
+entorno
 requirements
