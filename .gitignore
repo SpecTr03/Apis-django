@@ -1,5 +1,7 @@
 # git ignore
 agenda/secret.json
+agenda/applications/home/migrations/*
+agenda/applications/persona/migrations/*
 #
 entorno
 requirements
